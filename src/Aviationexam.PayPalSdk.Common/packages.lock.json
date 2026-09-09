@@ -4,9 +4,9 @@
     "net10.0": {
       "Meziantou.Analyzer": {
         "type": "Direct",
-        "requested": "[3.0.217, )",
-        "resolved": "3.0.217",
-        "contentHash": "Kcg5Hc95bc7gEWlQDxjc19RTS7QofrwET1Kqvk3kwkbh9pPoXzoG3Vlz/kbGxQfPAXDssVfJdpvgyYUUKAsSnQ=="
+        "requested": "[3.0.231, )",
+        "resolved": "3.0.231",
+        "contentHash": "LFW/rDMBp1ufbDg4KALGT05nZ3eoHOnYVlnWmLu1w72V1L1W4W3NTE6XFP+mtvV9TpsSUd1p2eaDJdiuD8UiFQ=="
       },
       "Microsoft.Extensions.Caching.Abstractions": {
         "type": "Direct",
@@ -172,9 +172,9 @@
       },
       "Microsoft.NET.ILLink.Tasks": {
         "type": "Direct",
-        "requested": "[10.0.11, )",
-        "resolved": "10.0.11",
-        "contentHash": "IBf7lbovvjGWVWXZX5cJ/cO0WXbId0Zq4BuSeT94mGZuOAP66oMeH9PTBZ9Jpp3Jb6jtK0qm/NyUbPRo1gC/wQ=="
+        "requested": "[10.0.12, )",
+        "resolved": "10.0.12",
+        "contentHash": "xi+BDjFpW+Sb+MHFHaH6Y/gV9I8BluFwRXc1QyCdoZbIK26eNiBeFuMTe/FMwc33G1wdHCyDg7CVTmb8OdQrMQ=="
       },
       "Microsoft.Extensions.Diagnostics": {
         "type": "Transitive",
@@ -223,9 +223,9 @@
     "net8.0": {
       "Meziantou.Analyzer": {
         "type": "Direct",
-        "requested": "[3.0.217, )",
-        "resolved": "3.0.217",
-        "contentHash": "Kcg5Hc95bc7gEWlQDxjc19RTS7QofrwET1Kqvk3kwkbh9pPoXzoG3Vlz/kbGxQfPAXDssVfJdpvgyYUUKAsSnQ=="
+        "requested": "[3.0.231, )",
+        "resolved": "3.0.231",
+        "contentHash": "LFW/rDMBp1ufbDg4KALGT05nZ3eoHOnYVlnWmLu1w72V1L1W4W3NTE6XFP+mtvV9TpsSUd1p2eaDJdiuD8UiFQ=="
       },
       "Microsoft.Extensions.Caching.Abstractions": {
         "type": "Direct",
@@ -390,9 +390,9 @@
       },
       "Microsoft.NET.ILLink.Tasks": {
         "type": "Direct",
-        "requested": "[8.0.30, )",
-        "resolved": "8.0.30",
-        "contentHash": "SfmwuZjUPBTEoBMAsXZ/hWkaEK9oL+Y/UtAx7N6RyWHfcMt9J0ExrNPuOgTyPbCXIyiTBFsxFNrPLEZNPmJcvA=="
+        "requested": "[8.0.31, )",
+        "resolved": "8.0.31",
+        "contentHash": "OJdAGATV2QoVWL11zlDLEluA06q8rK+cgZR47ohrO8V+Qj5z9dlvN7bG9/0e5t0IOe+yD8tREC0bpsEgDGrzIQ=="
       },
       "Microsoft.Extensions.Diagnostics": {
         "type": "Transitive",
@@ -441,9 +441,9 @@
     "net9.0": {
       "Meziantou.Analyzer": {
         "type": "Direct",
-        "requested": "[3.0.217, )",
-        "resolved": "3.0.217",
-        "contentHash": "Kcg5Hc95bc7gEWlQDxjc19RTS7QofrwET1Kqvk3kwkbh9pPoXzoG3Vlz/kbGxQfPAXDssVfJdpvgyYUUKAsSnQ=="
+        "requested": "[3.0.231, )",
+        "resolved": "3.0.231",
+        "contentHash": "LFW/rDMBp1ufbDg4KALGT05nZ3eoHOnYVlnWmLu1w72V1L1W4W3NTE6XFP+mtvV9TpsSUd1p2eaDJdiuD8UiFQ=="
       },
       "Microsoft.Extensions.Caching.Abstractions": {
         "type": "Direct",
@@ -608,9 +608,9 @@
       },
       "Microsoft.NET.ILLink.Tasks": {
         "type": "Direct",
-        "requested": "[9.0.19, )",
-        "resolved": "9.0.19",
-        "contentHash": "I9GkKrCVjzxGU1hsKSurOW6P/ABPPHARfc/MTnzIgDb8YjJ/votxKN2z7K+J3DvlQXGH0O7KqdtBseRj8j7eNQ=="
+        "requested": "[9.0.20, )",
+        "resolved": "9.0.20",
+        "contentHash": "oPFydtjCgow3DXnL8z5gPbq3R1zGvBpcypgRhW172Hn8asJcI8oy7isudAnAAALIWyK+uRWCDP+/+om3s0PZHA=="
       },
       "Microsoft.Extensions.Diagnostics": {
         "type": "Transitive",
